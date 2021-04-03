@@ -24,6 +24,7 @@ The assignment and project implementations for EEE482 course, Bilkent University
 - Implemented in Python (Jupyter Notebook) 
 
 ###  Project:
+- @emredonmez98 @alpacino98
 - Using Haxby dataset for MVPA (Multi-Voxel Pattern Analysis) to classify objects given fMRI data of subjects. 
 - Used techniques are
 	- kNN
