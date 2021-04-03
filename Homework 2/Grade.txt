@@ -1,0 +1,11 @@
+Q1 45
+
+1b- space-time separable -2
+
+1c- histograms not normalized -2
+
+significance -1
+
+Q2 49
+
+2c- Tuning not done properly -1
